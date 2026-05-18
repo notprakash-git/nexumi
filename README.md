@@ -46,7 +46,7 @@ sudo pacman -S python-pyqt5 python-pyqt5-webengine qt5-webengine
 Clone the repository and initialize the environment.
 
 ```bash
-git clone https://github.com/yourname/nexumi.git ~/nexumi
+git clone https://github.com/notprakash-git/nexumi
 cd ~/nexumi
 
 chmod +x setup.sh start_nexumi.sh stop_nexumi.sh
